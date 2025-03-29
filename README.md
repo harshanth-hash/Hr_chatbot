@@ -1,4 +1,4 @@
-![Chatbot Output](images/output.png)
+![Chatbot Output](output.png)
 
 
 
