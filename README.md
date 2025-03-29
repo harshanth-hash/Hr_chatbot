@@ -1,3 +1,7 @@
+![Chatbot Output](images/output.png)
+
+
+
 # Nestlé HR Assistant Chatbot
 
 This repository provides a chatbot designed to assist with HR-related queries using Python, Gradio, and Groq API.
